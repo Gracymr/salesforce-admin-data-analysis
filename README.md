@@ -57,3 +57,6 @@ cd salesforce-admin-data-analysis
 
 # Execute o Jupyter Notebook ou abra no VS Code
 jupyter notebook
+
+https://www.kaggle.com/gracyrodrigues  /   www.linkedin.com/in/gracianerodrigues
+
